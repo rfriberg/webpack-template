@@ -1,5 +1,5 @@
-# webpack-template
-Basic webpack + babel starter
+# Emmy finder
+Simple "finder" app to use when playing hide-and-seek with a four-year-old
 
 ### Get Started
 1. Clone repo
